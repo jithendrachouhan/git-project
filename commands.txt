@@ -1,0 +1,9 @@
+git init -> initialize the git in local
+git add -> you can give file name or you can add "." to stage all the changes
+git commit -m "your message" -> this command is to commit your changes after staging 
+git remote add origin "URL to you github" -> to set remote git 
+git push origin master => here master is your branch name its used to push all your commit to remote 
+git status => gives you status of your changes 
+git log -> this gives your all commit info 
+git fetch -> fetches all the changes done by other developers
+git pull oigin master -> master is your branch name this is used to pull all the changes from remote 
